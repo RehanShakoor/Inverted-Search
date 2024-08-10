@@ -1,0 +1,29 @@
+Help Menu
+
+1. Create DATABASE
+Below actions are done by this option
+a) This function will open files stores in Filelist one by one.
+b) Then it will read word stored in file, one by one.
+c) Then it will store all those in a linked list.
+d) Then it will write word list in a database file.
+
+2. Update DATABASE
+This option will create a new-updated database.
+First we have to use create DATABASE then use this option.
+Then it will deleted already existing database (both linked list and database file).
+Then it will again do all steps as in option1, to create a new-updated database.
+
+3. Delete DATABSE
+This option delete word linked list and content of database file.
+
+4. Display DATABASE
+This option simply prints the content of database file.
+
+5. Save DATABASE
+This option create a backup file of database file.
+
+6. Search
+This option searchs a given word in database.
+
+7. Help menu
+This option print help menu on how to use this program.

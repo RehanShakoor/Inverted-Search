@@ -1,0 +1,12 @@
+WORD            FILENAME        WORD-COUNT      ...
+end             file2.txt       1               file3.txt       1               
+everything      file2.txt       1               
+flower          file1.txt       1               file2.txt       1               file3.txt       1               
+grass           file1.txt       1               
+green           file1.txt       1               
+hello           file3.txt       1               
+not             file1.txt       1               file3.txt       1               
+okay            file1.txt       1               file2.txt       1               
+red             file2.txt       1               
+then            file3.txt       1               
+world           file3.txt       1               
